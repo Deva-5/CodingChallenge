@@ -1,4 +1,6 @@
 //POTD Day July 14
+#include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
